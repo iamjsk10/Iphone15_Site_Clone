@@ -6,7 +6,7 @@
 
 A pixel-perfect clone of Apple's iPhone 15 Pro website with **3D model interactions**, **smooth animations**, and **dynamic color/size customization**. Built with modern web technologies to mirror Apple's premium design.
 
-![Hero Section](./public/assets/screenshots/screenshot-hero.png)
+![Hero Section](./public/assets/screenshots/Ss_1.png)
 
 ## ✨ Features
 - **Interactive 3D Model**  
@@ -38,5 +38,6 @@ A pixel-perfect clone of Apple's iPhone 15 Pro website with **3D model interacti
 | **Pricing Section** | ![Pricing](./public/assets/screenshots/Ss_$.png) |
 
 ## 🎥 Video Demo
-[Watch Demo Video](./public/assets/videos/demo.mov)  
+[Watch Demo Video](./public/assets/videos/R1.mov)  
+[Watch Demo Video](./public/assets/videos/R2.mov)  
 *(Click to view screen recording of interactions)*
