@@ -33,9 +33,9 @@ A pixel-perfect clone of Apple's iPhone 15 Pro website with **3D model interacti
 | Section | Preview |
 |---------|---------|
 | **Hero Section** | ![Hero](./public/assets/screenshots/Ss_1.png) |
-| **Color Customization** | ![Color Picker](./public/assets/screenshots/Ss_2.png) |
+| **Video Carousel** | ![Color Picker](./public/assets/screenshots/Ss_2.png) |
 | **A17 Pro Chip Demo** | ![Chip Section](./public/assets/screenshots/Ss_3.png) |
-| **Pricing Section** | ![Pricing](./public/assets/screenshots/Ss_$.png) |
+| **Phone Info** | ![Pricing](./public/assets/screenshots/Ss_4.png) |
 
 ## 🎥 Video Demo
 [Watch Demo Video](./public/assets/videos/R1.mov)  
