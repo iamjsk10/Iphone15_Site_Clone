@@ -38,6 +38,6 @@ A pixel-perfect clone of Apple's iPhone 15 Pro website with **3D model interacti
 | **Phone Info** | ![Pricing](./public/assets/screenshots/Ss_4.png) |
 
 ## 🎥 Video Demo
-[Watch Demo Video](./public/assets/videos/R1.mov)  
-[Watch Demo Video](./public/assets/videos/R2.mov)  
+[Watch Demo Video](./public/assets/videos/R1.mp4)  
+[Watch Demo Video](./public/assets/videos/R2.mp4)  
 *(Click to view screen recording of interactions)*
